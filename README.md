@@ -1,7 +1,7 @@
 Imperial Final Project 2026
 =======
 
-This repository contains code and experiments from the MSc thesis:
+This repository contains the code from the MSc thesis:
 
 *Football tactics: an analysis based on Graph Theory* (Imperial College London, 2026).
 
