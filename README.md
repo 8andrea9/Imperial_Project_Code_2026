@@ -1,7 +1,8 @@
 # Imperial Final Project 2026
 
 
-This repository contains code and experiments from the MSc thesis
+This repository contains code and experiments from the MSc thesis:
+
 Football tactics: an analysis based on Graph Theory (Imperial College London, 2026).
 
 The project is focused on football tactics, analysed through Graph Theory, with the aim to find and explain football patterns using the methods coming from the graph representation of the match
