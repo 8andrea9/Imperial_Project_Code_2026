@@ -1,4 +1,4 @@
-Imperial Final Project 2026
+# **Imperial Final Project 2026**
 =======
 
 This repository contains the code from the MSc thesis:
@@ -9,11 +9,11 @@ The project focuses on the analysis of football tactics through Graph Theory, wi
 
 Table of Contents of the Project
 
-Single-Match Analysis
+1. Single-Match Analysis
     - Table results of all the stats for the matches
     - SBM - findings on the number of blocks - distribution - one example of graph with the block 
 
-Multi-Match Analysis
+2. Multi-Match Analysis
     - clustering model results
     - Comparison Table for clustering methods
     - xG model comparison vs Base Line model (Random forest)
