@@ -28,4 +28,4 @@ Requirements
 
 License
 
-This project is licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0) – see the [LICENSE] file for details.
+This project is licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0) – see the [LICENSE](https://github.com/8andrea9/Imperial_Project_Code_2026) file for details.
