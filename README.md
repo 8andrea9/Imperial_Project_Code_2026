@@ -1,5 +1,4 @@
 # **Imperial Final Project 2026**
-=======
 
 This repository contains the code from the MSc thesis:
 
@@ -14,7 +13,7 @@ Table of Contents of the Project
     - SBM - findings on the number of blocks - distribution - one example of graph with the block 
 
 2. Multi-Match Analysis
-    - clustering model results
+    - Clustering model results
     - Comparison Table for clustering methods
     - xG model comparison vs Base Line model (Random forest)
 
